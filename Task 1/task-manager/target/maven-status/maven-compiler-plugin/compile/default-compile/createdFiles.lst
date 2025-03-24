@@ -1,0 +1,6 @@
+com\example\task_manager\models\TaskExecution.class
+com\example\task_manager\TaskManagerApplication.class
+com\example\task_manager\controller\TaskController.class
+com\example\task_manager\repository\TaskRepository.class
+com\example\task_manager\service\TaskService.class
+com\example\task_manager\models\Task.class
