@@ -2,6 +2,7 @@
 Java backend and REST API example
 
 The repository includes screenshots demonstrating API functionality. 🚀
+Inside the folder: Task 1/Screenshots
 
 Tech Stack:
   -Java 21
