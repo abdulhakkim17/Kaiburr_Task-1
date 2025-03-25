@@ -41,5 +41,5 @@ Uses Spring Data MongoDB for database operations.
 
 Application validates the command provided in the request - if the command contain unsafe/malicious code, it will return { error: Unsafe Command Detected}
 
-This backend is tested using Postman
+This backend is tested using Postman  (http://localhost:8080/tasks)
 
