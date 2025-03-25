@@ -6,7 +6,7 @@ Inside the folder: Task 1/Screenshots
 
 Source code: Task 1/task-manager/src/main/java/com/example/task_manager
 
-Tech Stack:
+#Tech Stack:
   -Java 21
   -Spring Boot
   -Maven
