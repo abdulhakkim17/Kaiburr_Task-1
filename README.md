@@ -1,7 +1,7 @@
 # Kaiburr_Task-1
 Java backend and REST API example
 
-The repository includes screenshots demonstrating API functionality. 🚀
+The repository includes screenshots demonstrating API functionality.
 Inside the folder: Task 1/Screenshots
 
 Source code: Task 1/task-manager/src/main/java/com/example/task_manager
@@ -13,7 +13,7 @@ Tech Stack:
   -MangoDB
   -Postman (for Testing)
 
-✅ REST API Endpoints:
+#REST API Endpoints:
 
 --GET /tasks → Retrieve all tasks or a specific task by ID.
 
@@ -25,19 +25,19 @@ Tech Stack:
 
 --PUT /tasks/{id}/execute → Run the task's shell command in the terminal and store execution details.
 
-✅ Task Execution Management:
+#Task Execution Management:
 
 Each task has an ID, name, owner, command, and execution history.
 
 When a task runs, a new TaskExecution entry is recorded with start time, end time, and output.
 
-✅ MongoDB Integration:
+#MongoDB Integration:
 
 Tasks and their executions are stored in MongoDB.
 
 Uses Spring Data MongoDB for database operations.
 
-✅ Security and Validation:
+#Security and Validation:
 
 Application validates the command provided in the request - if the command contain unsafe/malicious code, it will return { error: Unsafe Command Detected}
 
