@@ -2,9 +2,9 @@
 Java backend and REST API example
 
 #The repository includes screenshots demonstrating API functionality.
-#Inside the folder: Task 1/Screenshots
+Inside the folder: Task 1/Screenshots
 
-Source code: Task 1/task-manager/src/main/java/com/example/task_manager
+#Source code: Task 1/task-manager/src/main/java/com/example/task_manager
 
 #Tech Stack:
   -Java 21
